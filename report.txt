@@ -1,0 +1,6 @@
+Current Iteration: 53Number of Animals: 45.9811320754717
+Number of Grass: 137.71698113207546
+Alive animals life duration: 27.0
+Dead animals life duration: 14.547169811320755
+Number Of Children: 0.05660377358490566
+Dominant genome: [0, 0, 0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 5, 7, 7, 7, 7]

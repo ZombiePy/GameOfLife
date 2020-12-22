@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d675abb1-bba8-4e6b-85af-4f9b4a8ed851" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lxXWS5ic48WUSCSD2wmKgbA9lq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Downloads/json-20201115.jar" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Temp\GameOfLife\src\Classes\Panels" />
+      <recent name="D:\Temp\GameOfLife\src\Classes" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StartingFrame">
+    <configuration name="Frame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Classes.Frame" />
+      <module name="GameOfLife" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Classes.Panels.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartingFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Classes.Panels.StartingFrame" />
+      <module name="GameOfLife" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Classes.Panels.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StartingFrame" />
+        <item itemvalue="Application.Frame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d675abb1-bba8-4e6b-85af-4f9b4a8ed851" name="Default Changelist" comment="" />
+      <created>1608539750042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608539750042</updated>
+      <workItem from="1608539751457" duration="42813000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1608539804395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040/-2160.565.1440.920@0.0.1920.1040" timestamp="1608539804395" />
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1608541850916">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-2160.565.1440.920@0.0.1920.1040" timestamp="1608541850916" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608552193334">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-2160.565.1440.920@0.0.1920.1040" timestamp="1608552193334" />
+    <state x="689" y="397" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1608557302200">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="397" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040/-2160.565.1440.920@0.0.1920.1040" timestamp="1608557302200" />
+    <state x="687" y="332" key="FileChooserDialogImpl" timestamp="1608561760695">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="687" y="332" key="FileChooserDialogImpl/0.0.1920.1040/-2160.565.1440.920@0.0.1920.1040" timestamp="1608561760695" />
+    <state width="1877" height="294" key="GridCell.Tab.0.bottom" timestamp="1608630149725">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1040/-2160.565.1440.920@0.0.1920.1040" timestamp="1608630149725" />
+    <state width="1877" height="294" key="GridCell.Tab.0.center" timestamp="1608630149724">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="294" key="GridCell.Tab.0.center/0.0.1920.1040/-2160.565.1440.920@0.0.1920.1040" timestamp="1608630149724" />
+    <state width="1877" height="294" key="GridCell.Tab.0.left" timestamp="1608630149724">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="294" key="GridCell.Tab.0.left/0.0.1920.1040/-2160.565.1440.920@0.0.1920.1040" timestamp="1608630149724" />
+    <state width="1877" height="294" key="GridCell.Tab.0.right" timestamp="1608630149724">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="294" key="GridCell.Tab.0.right/0.0.1920.1040/-2160.565.1440.920@0.0.1920.1040" timestamp="1608630149724" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1608561763920">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/-2160.565.1440.920@0.0.1920.1040" timestamp="1608561763920" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1608546063815">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-2160.565.1440.920@0.0.1920.1040" timestamp="1608546063815" />
+  </component>
+</project>
